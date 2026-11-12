@@ -1,0 +1,15 @@
+node_modules/
+.superpowers/
+__pycache__/
+quelltext/
+# Nie veröffentlichen: Umgebung, Logs, Daten und Zustand
+.env
+.env.*
+*.log
+logs/
+*.sqlite
+*.sqlite-*
+*.db
+state/
+daten/
+*.tar.gz
